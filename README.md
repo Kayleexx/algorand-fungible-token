@@ -2,14 +2,6 @@
 
 Welcome to the "Create a Fungible Token on Algorand with JS" project! This repository provides step-by-step instructions and code samples to help you create your own fungible tokens on the Algorand blockchain using JavaScript.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your system:
@@ -26,7 +18,7 @@ Follow these steps to create a fungible token on Algorand:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/algorand-fungible-token.git
+   git clone https://github.com/Kayleexx/algorand-fungible-token.git
 
 2. Change directory to the project folder:
 
