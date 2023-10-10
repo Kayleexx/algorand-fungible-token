@@ -4,7 +4,7 @@ Welcome to the "Create a Fungible Token on Algorand with JS" project! This repos
 
 ## Prerequisites
 
-Before you begin, make sure you have the following prerequisites installed on your system:
+Before we begin, make sure you have the following prerequisites installed on your system:
 
 - [Node.js](https://nodejs.org/) and npm (Node Package Manager)
 - [Algorand Sandbox](https://github.com/algorand/sandbox) for a local Algorand node (optional)
